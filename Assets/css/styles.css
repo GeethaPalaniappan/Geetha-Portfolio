@@ -100,6 +100,7 @@ a:active {
  
 }
 
+
 .aboutMe{
   position: fixed;
   top: 40%;
@@ -111,6 +112,8 @@ a:active {
   display: grid; 
   gap: 10px;
 }
+
+
 
 .experience{
   font-family:cursive;
