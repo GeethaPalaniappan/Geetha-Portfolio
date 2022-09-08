@@ -7,7 +7,7 @@
        cursor.setAttribute('style', `top:  ${e.pageY - 25}px; left: ${e.pageX - 25}px;`);
     });
  
-    document.addEventListener('click', () => { 
+       document.addEventListener('click', () => { 
        console.log("%c Click...!!!", "font-size: 20px; color:mediumspringgreen;");
  
        cursor.classList.add('cursor--expand');
