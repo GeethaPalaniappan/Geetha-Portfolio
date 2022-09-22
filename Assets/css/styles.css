@@ -20,19 +20,6 @@
   .font-dec{
     font-weight:bold;
   }
-  /* unvisited link */
-/* a:link {
-  color: red;
-  text-decoration: none;
- 
-} */
-
-/* visited link */
-/* a:visited {
-  color: green;
-  text-decoration: none;
- 
-} */
 
 /* mouse over link */
 a:hover {
@@ -134,7 +121,7 @@ a:active {
 * {
   margin: 0;
   padding: 0;
-  cursor: none;
+  /*cursor: none;*/
 }
 
 
